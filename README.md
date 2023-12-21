@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SSaratchandraRaju
 - 👀 I’m interested in Softtware Development
 - 🌱 I’m currently learning Full Stack web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with people who are passionate in web development
 - 📫 Reach out to me through my mail "ssaratchandraraju@gmail.com"
 
 <!---
