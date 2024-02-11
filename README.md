@@ -20,7 +20,7 @@
 - Twitter: [saratchandra_SR](https://twitter.com/saratchandra_SR)
 
 ### 🌐 Check out my projects
-- [E-Commerce Website Development](https://ssaratchandraraju.github.io/E-Commerce/)) - I am excited to present my work on a user-friendly e-commerce website. Leveraging my skills in HTML, CSS, JavaScript, and Bootstrap, I successfully designed and implemented a seamless online shopping experience. The project not only demonstrates my proficiency in front-end development but also showcases my ability to create responsive and visually appealing interfaces.
+- [E-Commerce Website Development](https://ssaratchandraraju.github.io/E-Commerce/) - I am excited to present my work on a user-friendly e-commerce website. Leveraging my skills in HTML, CSS, JavaScript, and Bootstrap, I successfully designed and implemented a seamless online shopping experience. The project not only demonstrates my proficiency in front-end development but also showcases my ability to create responsive and visually appealing interfaces.
 - [My Portpolio](https://ssaratchandraraju.github.io/saratchandraraju/) - As a dedicated software engineer, I specialize in crafting innovative solutions and pushing boundaries in the digital realm. Explore my projects to witness my passion for technology, problem-solving prowess, and commitment to excellence. Let's embark on a journey of creativity and innovation together!.
 
 ### 🌟 Fun Facts
