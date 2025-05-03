@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saratchandra Raju Sarikonda</h1>
 <h3 align="center">🚀 A Passionate Software Engineer & Full-Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SSaratchandraRaju/SSaratchandraRaju/main/assets/intro.gif" />
 
 <p align="left">
   - 🔭 I’m currently working on a <strong>Full-Stack EduTech Platform</strong><br>
@@ -35,12 +35,20 @@
 
 ---
 
-### 🌐 Projects
-- 💻 [E-Commerce Website](https://ssaratchandraraju.github.io/E-Commerce/)  
-  A responsive and dynamic online shopping platform using HTML, CSS, JavaScript, and Bootstrap.
+### 🌐 Featured Projects
 
-- 👨‍💼 [My Portfolio](https://ssaratchandraraju.github.io/saratchandraraju/)  
-  A modern showcase of my work, skills, and accomplishments as a software developer.
+| Project | Description |
+|--------|-------------|
+| 👨‍💼 [**My Portfolio**](https://saratchandra-raju-sarikonda.vercel.app/) | A modern, responsive portfolio that showcases my skills, achievements, and professional journey as a full-stack developer. |
+| 🛍️ [**FashionStore Website**](https://fashion-mu-pink.vercel.app/) | A fully functional e-commerce platform built with React + TypeScript, featuring dynamic product listings, a shopping cart, and seamless UI interactions. |
+| 🍽️ [**Restaurant Website**](https://savore-bay.vercel.app/) | A beautifully designed static website for a restaurant, featuring an interactive menu, smooth animations, and a dummy reservation system. |
+| ✈️ [**Travel Agency Landing Page**](https://traveldream-iota.vercel.app/) | A captivating static landing page showcasing travel packages, destination highlights, and immersive parallax scrolling for a premium look and feel. |
+| 🛒 [**E-Commerce Website (HTML/CSS/JS)**](https://ssaratchandraraju.github.io/E-Commerce/) | A responsive online store built with HTML, CSS, and JavaScript—includes interactive product listings and intuitive user experience. |
+| ⏰ [**Digital Clock & Stopwatch**](https://digiclock-two.vercel.app/) | A real-time digital clock and stopwatch combo app, built with React + TypeScript, featuring start, stop, and reset functionalities. |
+| 📆 [**Event Countdown Timer**](https://event-reminder-nine.vercel.app/) | A static countdown timer app that dynamically calculates and displays time remaining until a specific event using React + TypeScript. |
+| 🧠 [**Quiz Game**](https://quizz-lime-theta.vercel.app/) | A dynamic multiple-choice quiz app built without a backend for instant and engaging gameplay. Results are displayed interactively. |
+| 📱 [**E-commerce Flutter App**](https://wat-mart.web.app/#/minified:r7) | A robust mobile e-commerce application built with Flutter, offering intuitive navigation, product browsing, and secure checkout functionality. |
+
 
 ---
 
@@ -48,6 +56,12 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/s-saratchandra-raju/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" /></a>
   <a href="https://twitter.com/saratchandra_SR" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" /></a>
+  <a href="mailto:ssaratchandraraju@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="40" />
+  </a>
+  <a href="https://wa.me/919010349070?text=Hi%20Saratchandra%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="40" />
+  </a>
 </p>
 
 <!-- ### 📊 GitHub Stats
