@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SSaratchandraRaju/SSaratchandraRaju/main/assets/intro.gif" />
 
 <p align="left">
-  - 🔭 I’m currently working on a <strong>Full-Stack EduTech Platform</strong><br>
+  - 🔭 I’m currently working on a <strong>Ledger Flutter App</strong><br>
   - 🌱 I’m learning advanced Django and exploring AI integrations<br>
   - 💬 Ask me about Flutter, Firebase, Python, and Web Development<br>
   - 📫 Reach me at: <strong>ssaratchadraraju@gmail.com</strong><br>
